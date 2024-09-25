@@ -1,4 +1,4 @@
-## Welcome to the  case study on logistics data, focusing on shipment performance and cost analysis. Dashboard offers a comprehensive view of collected and delivered shipments, categorized by transport mode and status.
+## Welcome to the study on logistics data, focusing on shipment performance and cost analysis. Dashboard offers a comprehensive view of collected and delivered shipments, categorized by transport mode and status.
 
 
 
